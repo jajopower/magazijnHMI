@@ -34,6 +34,7 @@ public class FrameHeader extends JFrame implements ActionListener{
         jmb_main.add(jb_noodstop);
 
         setJMenuBar(jmb_main);
+        //voeg hieronder je paneel toe
 
 
 
